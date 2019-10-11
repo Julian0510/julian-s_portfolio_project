@@ -1,7 +1,12 @@
+body{
+    font-family: 'Cedarville Cursive', cursive;
+
+}
 ul{
     list-style: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-evenly;
+    color: blue;
 }
 li {
     margin-top: 25px;
