@@ -14,3 +14,7 @@ li {
     margin-left: 55px;
     margin-bottom: 15px;
 }
+nav ul li a {
+    text-decoration: none;
+    color: #008080;
+}
